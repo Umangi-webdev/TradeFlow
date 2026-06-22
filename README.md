@@ -270,7 +270,7 @@ This project strengthened my understanding of:
 
 ### Umangi Patel
 
-Software Engineering Enthusiast | MERN Stack Developer
+Software Engineering Enthusiast | MERN Stack Developer | Problem Solver
 
 GitHub: https://github.com/Umangi-webdev
 
