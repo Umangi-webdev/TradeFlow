@@ -9,7 +9,7 @@ import Footer from "../Footer";
 function SupportPage() {
   return (
     <>
-      <Navbar />
+      
       <Hero />
       <CreateTicket />
       
