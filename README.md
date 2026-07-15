@@ -272,7 +272,7 @@ This project strengthened my understanding of:
 
 Software Engineering Enthusiast | MERN Stack Developer | Problem Solver
 
-GitHub: https://github.com/Umangi-webdev
+GitHub Profile Link: https://github.com/Umangi-webdev
 
 
 <div align="center">
