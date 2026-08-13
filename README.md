@@ -10,7 +10,57 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
-</p>
+</p# 🔥 Greedy Algorithms (Part 1) - Fundamentals, Activity Selection & Fractional Knapsack
+
+## 📌 Introduction
+
+Greedy Algorithms are algorithms that make the **best possible choice at the current moment** with the hope of obtaining the optimal solution.
+
+The main idea is:
+
+> Choose the locally optimal option at every step.
+
+Greedy algorithms are usually simple, efficient, and commonly used in coding interviews.
+
+---
+
+# 📋 Topics Covered
+
+- Greedy Algorithm Fundamentals
+- Greedy Strategy
+- Greedy Choice Property
+- Optimal Substructure
+- Activity Selection Problem
+- Fractional Knapsack
+- Greedy + Sorting
+- When to Use Greedy
+- Common Greedy Patterns
+- Greedy vs Dynamic Programming
+
+---
+
+# 1️⃣ What is a Greedy Algorithm?
+
+A Greedy Algorithm builds a solution step-by-step.
+
+At every step, it chooses the option that looks best **right now**.
+
+It does not usually reconsider previous decisions.
+
+### General Pattern
+
+```text
+Start
+  ↓
+Choose the best available option
+  ↓
+Make the choice
+  ↓
+Reduce the problem
+  ↓
+Repeat
+  ↓
+Final Answer
 
 <p align="center">
   Trade Smarter • Analyze Faster • Invest Better
